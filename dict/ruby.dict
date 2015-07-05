@@ -219,7 +219,7 @@ navigationItem
 purpleColor
 rightBarButtonItem
 rootViewController
-viewControllers 
+viewControllers
 whiteColor
 clearColor
 textColor
@@ -229,7 +229,7 @@ UITableViewCellStyleDefault
 textLabel
 cellForRowAtIndexPath
 numberOfRowsInSection
-dataSource 
+dataSource
 delegate
 didSelectRowAtIndexPath
 addButtonWithTitle
@@ -239,7 +239,7 @@ have_content
 uniqueness
 include
 SessionsHelper
-be_blank 
+be_blank
 before_create
 Digest::SHA1.hexdigest
 has_key?
@@ -260,7 +260,7 @@ enablesReturnKeyAutomatically
 returnKeyType
 UIReturnKeyDone
 UITextAutocapitalizationTypeNone
-autocapitalizationType 
+autocapitalizationType
 textFieldShouldReturn
 otherButtonTitles
 cancelButtonTitle
@@ -270,7 +270,7 @@ viewDidLoad
 frame
 size
 width
-height 
+height
 autoresizingMask
 UIViewAutoresizingFlexibleBottomMargin
 UIViewAutoresizingFlexibleTopMargin
@@ -282,12 +282,12 @@ addTarget
 initWithColor
 animated
 bundle
-tabBarItem 
+tabBarItem
 UITabBarItem
 target
 completion
-borderStyle 
-textAlignment 
+borderStyle
+textAlignment
 UITextAlignmentCenter
 to_sym
 NSUserDefaults.standardUserDefaults
